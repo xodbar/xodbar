@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xodbar
 - 👀 I’m interested in backend development
-- 🌱 I’m currently learning Java EE & Web Basics
+- 🌱 I’m currently learning Java EE
 
 <!---
 xodbar/xodbar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
